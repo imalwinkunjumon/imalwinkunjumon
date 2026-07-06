@@ -1,7 +1,7 @@
 # <p align="center">Alwin Kunjumon</p>
 
 <p align="center">
-  <b>Software Engineer (Python & C/C++)</b>
+  <b>Robotics AI Engineer</b>
 </p>
 
 <p align="center">
