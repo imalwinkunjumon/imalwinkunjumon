@@ -6,8 +6,8 @@
 
 <p align="center">
   <a href="https://www.instagram.com/thealwinkunjumon">Instagram</a> / 
-  <a href="https://x.com/itsalwk">twitter</a> /
-  <a href="https://www.youtube.com/@alwinkunjumon">youtube</a> / 
+  <a href="https://twitter.com/alwin_kunjumon">twitter</a> /
+  <a href="https://www.youtube.com/@thealwinkunjumon">youtube</a> / 
   <a href="www.linkedin.com/in/alwinkunjumon">linkedin</a>
 </p>
 
