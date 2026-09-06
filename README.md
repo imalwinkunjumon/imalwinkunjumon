@@ -1,14 +1,14 @@
 # <p align="center">Alwin Kunjumon</p>
 
 <p align="center">
-  <b>Computer Science Engineer</b>
+  <b>engineer of computer science</b>
 </p>
 
 <p align="center">
-  <a href="https://www.instagram.com/itsalwk">Instagram</a> / 
-  <a href="https://x.com/itsalwk">X</a> /
-  <a href="https://www.youtube.com/channel/UC8OM_CF6152OqCz0lbEa7Lg">Youtube</a> / 
-  <a href="www.linkedin.com/in/itsalwk">LinkedIn</a>
+  <a href="https://www.instagram.com/thealwinkunjumon">Instagram</a> / 
+  <a href="https://x.com/itsalwk">twitter</a> /
+  <a href="https://www.youtube.com/@alwinkunjumon">youtube</a> / 
+  <a href="www.linkedin.com/in/alwinkunjumon">linkedin</a>
 </p>
 
 ---
